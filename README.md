@@ -5,3 +5,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Use my socials
 - <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AtharvaK123&theme=radical" alt="GitHub Streak" /></a>
+<a href = "[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"</a>
