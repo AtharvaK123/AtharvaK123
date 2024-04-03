@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my own website
+- 🔭 I’m currently working on my own website: (Check out my repository called Atharvak123.github.io!)
 - 🌱 I’m currently learning Java, HTML, Python, and C#
 - 🤔 I’m looking for help with my own website
 - 💬 Ask me about anything
