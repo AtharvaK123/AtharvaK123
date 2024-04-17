@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my own website: (Check out my repository called Atharvak123.github.io!)
-- 🌱 I’m currently learning Java, HTML, Python, and C#
+- 🌱 I’m currently learning HTML and Python
 - 🤔 I’m looking for help with my own website
 - 📫 How to reach me: Use my socials
 
