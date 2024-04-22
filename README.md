@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my own website: (Check out my repository called Atharvak123.github.io!)
 - 🌱 I’m currently learning HTML and Python
-- 🤔 I’m looking for help with my own website.
+- 🤔 I’m looking for help with my own website
 - 📫 How to reach me: Use my socials
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtharvaK123&theme=vue-dark&border_radius=4.4)](https://git.io/streak-stats)<br><br>
