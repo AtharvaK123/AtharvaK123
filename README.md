@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my own website: (Check out my repository called Atharvak123.github.io!)
-- 🌱 I’m currently learning HTML and Python
+- 🌱 I’m currently learning HTML and Python.
 - 🤔 I’m looking for help with figuring out which one of my javaScript repos is taking so much space
 - 📫 How to reach me: Use my socials
 
