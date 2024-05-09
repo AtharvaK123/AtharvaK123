@@ -6,4 +6,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtharvaK123&theme=vue-dark&border_radius=4.4)](https://git.io/streak-stats)<br><br>
 
-My Languages: JS, HTML, Java, Python, C#
+My Languages: JS, HTML, Java, Python, C#, and I have also dabbled in SQL
