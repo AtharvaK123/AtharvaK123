@@ -6,5 +6,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtharvaK123&theme=vue-dark&border_radius=4.4)](https://git.io/streak-stats)<br><br>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaK123&hide=javascript&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaK123&hide=javascript&theme=tokyonight)<br><br>
 My Languages: JS, HTML, Java, Python, C#, and I have also dabbled in SQL
