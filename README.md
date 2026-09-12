@@ -3,49 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <title>README preview v3</title>
-<style>
-  body {
-    background: #ffffff;
-    margin: 0;
-    padding: 40px 20px;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    color: #1a1a1a;
-  }
-  .repo-shell {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  .repo-header {
-    color: #57606a;
-    font-size: 13px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #d0d7de;
-    margin-bottom: 24px;
-  }
-  h3 {
-    font-size: 1.25em;
-    margin-top: 28px;
-    margin-bottom: 8px;
-  }
-  p { line-height: 1.6; margin: 10px 0; }
-  ul { padding-left: 22px; line-height: 1.6; }
-  li { margin: 4px 0; }
-  code {
-    background: #f6f8fa;
-    padding: 2px 5px;
-    border-radius: 3px;
-    font-size: 85%;
-    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-  }
-  hr { border: none; border-top: 1px solid #d0d7de; margin: 24px 0; }
-  img { max-width: 49%; }
-  .stats-row { display: flex; gap: 12px; flex-wrap: wrap; }
-</style>
-</head>
-<body>
-<div class="repo-shell">
-  <div class="repo-header">AtharvaK123 / <strong>AtharvaK123</strong> · README.md</div>
-
   <h3>Hi there! I'm Atharva</h3>
   <p>I am majoring in Data Science and minoring in business administration. </p>
 
