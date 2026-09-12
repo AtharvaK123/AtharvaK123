@@ -13,14 +13,7 @@
     <li><strong>My own site</strong> (<code>atharvak123.github.io</code>) — permanently "in progress," which I've decided is just what a personal site is.</li>
   </ul>
 
-  <hr>
-
-  <div class="stats-row">
-    <img src="https://github-readme-stats.vercel.app/api?username=AtharvaK123&show_icons=true&hide_border=true&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaK123&layout=compact&hide=javascript&hide_border=true&theme=default" />
-  </div>
-
-  <p>reach me the old-fashioned way — open an issue, or just leave something on my GitHub.</p>
+  <p>Contact me on any of my socials for any questions!</p>
 </div>
 </body>
 </html>
