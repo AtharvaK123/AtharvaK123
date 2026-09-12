@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>README preview v3</title>
   <h3>Hi there! I'm Atharva</h3>
   <p>I am majoring in Data Science and minoring in business administration. </p>
 
